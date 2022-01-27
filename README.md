@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jovanblazek
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning React and NodeJS
-- Visit my portfolio [here](https://jtblazek.sk).
+- 👀 I’m junior engineer at [Sudolabs](https://sudolabs.com)
+- 🌱 I’m working with React and NodeJS
+- Visit my kinda outdated portfolio [here](https://jtblazek.sk).
 
 <!---
 jovanblazek/jovanblazek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
