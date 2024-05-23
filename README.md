@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jovanblazek
-- 👀 I’m junior engineer at [Sudolabs](https://sudolabs.com)
+- 👀 I’m full-stack engineer at [Sudolabs](https://sudolabs.com)
 - 🌱 I’m working with React and NodeJS
 - Visit my kinda outdated portfolio [here](https://jtblazek.sk).
 
